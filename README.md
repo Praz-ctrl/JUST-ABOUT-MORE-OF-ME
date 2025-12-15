@@ -1,61 +1,63 @@
-<h1 align="center">Hi I’m Prajwal 👋</h1>
+<h1 align="center">Hey I’m Prajwal 👋</h1>
 
 <p align="center">
-Curious developer focused on learning building and improving every day  
+I write code that learns  
+sometimes the code learns faster than me  
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20AI%20%26%20ML-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-Foundations%20First-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Teaching%20Machines%20Slowly-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bugs-Actively%20Creating-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Coffee-Required-brown?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Learner;Student+Developer;Debugging+in+Progress;Learning+One+Error+at+a+Time"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I enjoy understanding how things work under the hood  
-I like writing simple logic before optimizing it  
-I believe strong fundamentals make better engineers  
-
-Currently focused on building a solid base in artificial intelligence and machine learning  
+Curious developer who likes understanding **why** code works  
+Believes copy paste is useful but learning is better  
+Currently convincing machines to learn patterns instead of chaos  
 
 ---
 
-## ✅ What I’m Good At
+## 💪 Things I’m Actually Good At
 
-• Programming fundamentals and logical problem solving  
-• C programming memory pointers and arrays  
-• Writing structured readable code  
-• Debugging and tracing errors  
-• Mathematical thinking for engineering problems  
-• Understanding concepts deeply rather than memorizing  
+• Breaking problems into smaller problems  
+• C programming pointers arrays and memory  
+• Writing logic that makes sense at 3am  
+• Debugging with patience and stubbornness  
+• Math that supports engineering and ML  
+• Learning from mistakes especially my own  
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 What I’m Learning Right Now
 
 • Artificial Intelligence fundamentals  
-• Machine Learning concepts and workflows  
-• Supervised and unsupervised learning algorithms  
-• Data preprocessing and feature engineering  
-• Model training validation and evaluation  
+• Machine Learning algorithms and workflows  
+• Data preprocessing feature engineering and sanity checks  
+• Training models and asking why accuracy dropped  
 • Python for data science and ML  
-• Basics of neural networks  
+• Neural networks basics neurons not included  
 
 ---
 
-## 🎯 Areas of Interest
+## 🧠 Areas That Interest Me
 
 • Artificial Intelligence  
 • Machine Learning  
-• Data driven decision systems  
-• Algorithms and problem solving  
+• Data driven systems  
+• Algorithms and optimization  
 • Applied mathematics  
 
 ---
 
-## 🛠️ Tools and Technologies
+## 🛠️ Tools I Use to Break and Fix Things
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -69,35 +71,42 @@ Currently focused on building a solid base in artificial intelligence and machin
 
 ---
 
-## 🧠 My Learning Approach
+## 🧩 How I Learn
 
-• Focus on fundamentals before frameworks  
-• Learn by building small meaningful projects  
-• Break problems down and solve step by step  
-• Prefer clarity over complexity  
-• Improve consistently rather than rushing  
+• Understand fundamentals before using fancy libraries  
+• Build small projects and break them safely  
+• Ask why until the model answers or crashes  
+• Prefer simple solutions over smart looking ones  
 
 ---
 
 ## 🔭 Currently Working On
 
 • Strengthening ML foundations  
-• Practicing algorithms and data handling  
-• Small experiments with datasets and models  
-• Improving code structure and readability  
+• Playing with datasets and models  
+• Making sense of errors and metrics  
+• Writing cleaner code than yesterday  
 
 ---
 
-## 📌 Goals
+## 📈 Goals
 
 • Build strong AI and ML fundamentals  
-• Contribute to open source in the future  
-• Create projects that demonstrate real understanding  
-• Grow as a reliable and thoughtful engineer  
+• Create projects that actually explain themselves  
+• Contribute to open source when confident  
+• Become a calm engineer under pressure  
 
 ---
 
 <p align="center">
-Thanks for visiting  
-Always learning always building 🚀
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+Thanks for scrolling this far  
+you’re officially a legend 🚀
 </p>
